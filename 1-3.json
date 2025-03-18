@@ -1,0 +1,19 @@
+{   
+    "_id": "",
+    "nome": "juan",
+    "data_nascimento": "2003-10-22",
+    "email": "juan75indiano@gmail.com",
+    "endereco": {
+ rua: "Avenida Principal",
+      numero: 123,
+      cidade: "São Paulo",
+      estado: "SP"
+},
+'interesse': ['kart', 'culinaria'],
+'reserva': [{
+'data': '2025-03-18',
+'status': 'pendente',
+'destino': 
+}]
+
+}
